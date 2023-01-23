@@ -1,0 +1,6 @@
+- source: Project_Report.qmd
+  quarto-pub:
+    - id: 0d753859-154a-4353-be21-6ac69fcf310d
+      url: 'https://quartopub.com/sites/osanna/project_report'
+    - id: 99dd0728-4de2-4d65-a3e7-0ea609a87ab9
+      url: 'https://quartopub.com/sites/osanna/final-project-report-template'

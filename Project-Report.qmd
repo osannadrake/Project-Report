@@ -1,0 +1,182 @@
+---
+title: "Final Project Report Template"
+subtitle: "Course Name"
+author:
+  name: Osanna Drake
+  url: mailto::osanna.drake@duke.edu
+  orcid: 0000-0003-2375-174X
+institute: Duke University 
+date: today
+format: 
+  html:
+    theme: cosmo
+    toc-location: left
+    code-fold: true
+editor: visual
+---
+
+# Abstract
+
+::: {.callout-tip appearance="simple"}
+Sentences:
+
+-   Introduce general field
+
+-   Narrow context
+
+-   Big unknown question (addressed by my research) - readers should be able to know what's already been done vs. what's missing, and why what I'm doing is important (tie back to big picture)
+
+-   What I did (to answer the question) and what I found
+
+-   What that means (the answer to the question based on results) and broader significance/importance
+:::
+
+**Sentence order in paragraphs:**
+
+-   *Define topic/context*
+
+-   *Present new content*
+
+-   *Takeaway to remember*
+
+# Introduction
+
+## Big problem in world and science
+
+-   Field domain
+
+-   What field knows
+
+-   Remaining gap
+
+## Narrower problem within
+
+-   Field domain
+
+-   What field knows
+
+-   Remaining gap
+
+## Even narrower problem
+
+-   Field domain
+
+-   What field knows
+
+-   Remaining gap
+
+## Super duper narrow/specific problem within
+
+-   Field domain
+
+-   What field knows
+
+-   Remaining gap
+
+## Summary
+
+-   My research question (aka that tiny gap)
+
+-   My approach to answering it
+
+-   General outcome
+
+# Methods
+
+## Overview
+
+-   My question
+
+-   General methods
+
+-   Answer sought
+
+-   \[supporting figures\]
+
+## Step 1 - raw data
+
+-   I need to show
+
+-   Here's how I show
+
+-   Therefore I know
+
+## Step 2 - processed
+
+-   I need to show
+
+-   Here's how I show
+
+-   Therefore I know
+
+## logic 3 - stats
+
+-   I need to show
+
+-   Here's how I show
+
+-   Therefore I know
+
+# Results
+
+## Finding 1
+
+-   I found
+
+-   I filled gap
+
+## Finding 2
+
+-   I found
+
+-   I filled gap
+
+## Finding 3
+
+-   I found
+
+-   I filled gap
+
+# Discussion
+
+## Interpretation of results
+
+-   I found x which means y
+
+-   I filled gap
+
+## Limitations in filling gap
+
+-   Limitations
+
+-   Details
+
+-   How to interpret or fix
+
+## Limitations in generalizing
+
+-   Limitations
+
+-   Details
+
+-   How to interpret or fix
+
+## Broader contributions
+
+-   Strengths/value
+
+-   How it's useful
+
+-   Impact/difference made
+
+## Science is better now
+
+-   Strengths/value
+
+-   How it's useful
+
+-   Impact/difference made
+
+# References
+
+# Appendix
